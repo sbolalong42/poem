@@ -25,3 +25,4 @@ enum GithubScopes {
     Write,
 }
 ```
+<!-- Auto-update: 2025-10-07T02:00:52.093663 -->
